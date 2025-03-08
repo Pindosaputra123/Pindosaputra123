@@ -28,7 +28,7 @@
    <table>
    <tr>
      <td>
- <a align="center" href="https://github.com/Pindosaputra123"><img src="https://skillicons.dev/icons?i=vscode,github,unity,figma,vercel,postman,git,flask,mysql,firebase,python,js,cpp,express,sequelize,bootstrap,html,css,nextjs,postgresql,arduino,nodejs,react,php,tailwind,laravel,typescript"> </a> 
+ <a align="center" href="https://github.com/Pindosaputra123"><img src="https://skillicons.dev/icons?i=vscode,github,unity,figma,vercel,git,mysql,firebase,python,js,cpp,bootstrap,html,css,postgresql,arduino,php,tailwind,laravel,java"> </a> 
 </td>
    </tr>
      
