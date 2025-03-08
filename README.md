@@ -1,36 +1,50 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-<h1 align="center">Hi 👋, I'm Pindo Saputra</h1>
-<h3 align="center">A passionate FrontEnd Developer From Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## Hallo Dunia... 
+ <div align="center"> 
+
+  <a href="https://www.instagram.com/pindo_864?igsh=MWcyYnp1M2I3MWwyaQ==">
+    <img src="https://img.shields.io/badge/pindo_864-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.tiktok.com/@pindo.saputra?_t=ZS-8uVwTgavFUG&_r=1">
+    <img src="https://img.shields.io/badge/Pindo_Saputra-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://www.facebook.com/pindo.saputra.3386">
+    <img src="https://img.shields.io/badge/Pindo&nbsp;Saputra-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://github.com/Pindosaputra123">
+    <img src="https://img.shields.io/badge/PindoSaputra123-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="pindosaputraharmanto@gmail.com">
+    <img src="https://img.shields.io/badge/Pindo&nbsp;Saputra-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+     
+  
+</div>
+<hr>
+
+<!-- ## L & T: -->
+<div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Skills%3A" alt="Typing SVG"/></a>
+
+   <table>
+   <tr>
+     <td>
+ <a align="center" href="https://github.com/Pindosaputra123"><img src="https://skillicons.dev/icons?i=vscode,github,unity,figma,vercel,postman,git,flask,mysql,firebase,python,js,cpp,express,sequelize,bootstrap,html,css,nextjs,postgresql,arduino,nodejs,react,php,tailwind,laravel,typescript"> </a> 
+</td>
+   </tr>
+     
+   </table>
+   </div>
+   <hr>
 
 
-- 👨‍💻 All of my projects are available at **https://pindo-portfolio.vercel.app/**
-
-- 🌱 I’m currently learning **Laravel**
-
-- 💬 Ask me about **c++, javascript, and java**
-
-- 📫 How to reach me **pindosaputraharmanto@gmail.com**
-
-- ⚡ Fun fact **I am interested in Games**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishav chanda" height="30" width="40" /></a>
-</p>
-
-<h3 align="left"><br>Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
+<div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Statistik%3A" alt="Typing SVG"/></a>
+<!--   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Uriadutu&hide_border=true&show_icons=true&count_private=true&theme=tokyonight&bg_color=151515"> -->
+  <a href="https://github.com/Pindosaputra123">      
+    <img height="200px" title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PindoSaputra123&theme=tokyonight&hide_border=true&stroke=f53b3b"/>
+  </a>
+<!--    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Uriadutu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+   <img height="200px" src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs/?username=PindoSaputra123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&stroke=f53b3b"/>
+<!--    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
+  
+</p> 
