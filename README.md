@@ -41,10 +41,10 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Statistik%3A" alt="Typing SVG"/></a>
 <!--   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Uriadutu&hide_border=true&show_icons=true&count_private=true&theme=tokyonight&bg_color=151515"> -->
   <a href="https://github.com/Pindosaputra123">      
-    <img height="200px" title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PindoSaputra123&theme=tokyonight&hide_border=true&stroke=f53b3b"/>
+    <img height="200px" title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pindosaputra123&theme=tokyonight&hide_border=true&stroke=f53b3b"/>
   </a>
 <!--    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Uriadutu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-   <img height="200px" src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs/?username=PindoSaputra123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&stroke=f53b3b"/>
+   <img height="200px" src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs/?username=Pindosaputra123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&stroke=f53b3b"/>
 <!--    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
   
 </p> 
